@@ -26,7 +26,7 @@ body{
 }
 
 .container-input span {
-  color: #000000;
+  color: #494040;
   font-size: 22px;
 }
 
@@ -98,7 +98,7 @@ body{
   padding: 6px 8px;
   font-size: 16px;
   border-radius: 6px;
-  background: rgb(46, 43, 43);
+  background: rgb(255, 246, 246);
   opacity: 0;
   visibility: hidden;
   transition: all .5s ease-in-out;
